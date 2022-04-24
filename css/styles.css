@@ -458,12 +458,13 @@ margin-left: 70px;
     fill: #FFFFFF;
 
 }
-.footer-soc-link:not(:last-child) {
+.footer-soc-item:not(:last-child) {
     margin-right: 10px;  
     }
 
-    .footer-twitter {
-        background-color: #2196F3;
+    .footer-soc-link:hover, .footer-soc-link:focus {
+        background-color:  #2196F3;
+        
     }
 /*---------------------PORTFOLIO-----------------------------*/
 
